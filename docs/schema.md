@@ -26,6 +26,6 @@
 - Jeśli brakuje `timestamp` lub `station_id` → invalid (quarantine).
 
 ## Open questions
-- [ ] `rain_mm`: interwał
-- [ ] częstotliwość: 5 minut
-- [ ] dopuszczalne braki (nullable)
+- [x] `rain_mm`: interwał
+- [x] częstotliwość: 5 minut
+- [ ] dopuszczalne braki (nullable) → tak, oprócz timestamp i station_id
