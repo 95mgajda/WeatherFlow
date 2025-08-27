@@ -21,5 +21,9 @@
 ## 🚀 Goal
 This project is designed as a portfolio-ready showcase for aspiring data engineers and data scientists interested in IoT, automation, and enterprise-grade database integration.
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 6fb5e690d29c8e5cd4220fa80d8c6e88ac17f6ba
 ## 📂 Project structure
 See the full structure and setup in `/README.md` and `checklists/`.
